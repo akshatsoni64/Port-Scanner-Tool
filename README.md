@@ -1,5 +1,5 @@
 # Port-Scannner-Demo
-This is a practice tool developed to scan the port of the targetted machine, developed using the tutorial and guidance by TheCyberMentor Sir - @hmaverickadams.
+This is a basic tool developed to scan the port of the targetted machine, developed using the tutorial and guidance by TheCyberMentor Sir - @hmaverickadams.
 
 # Usage
 > git clone https://github.com/akshatsoni64/Port-Scanner-Demo.git

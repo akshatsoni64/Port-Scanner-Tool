@@ -3,5 +3,7 @@ This is a practice tool developed to scan the port of the targetted machine, dev
 
 # Usage
 > git clone https://github.com/akshatsoni64/Port-Scanner-Demo.git
+
 > cd Port-Scanner-Demo
+
 > python3 scanner.py < ip >

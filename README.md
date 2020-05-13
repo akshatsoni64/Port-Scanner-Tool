@@ -1,4 +1,4 @@
-# Port-Scannner-Demo
+# Port-Scanner-Demo
 This is a basic tool developed to scan the port of the targetted machine, developed using the tutorial and guidance by TheCyberMentor Sir - @hmaverickadams.
 
 # Usage

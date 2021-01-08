@@ -7,6 +7,4 @@ This is a basic tool developed to scan the port of the targetted machine, develo
 
 <code>cd Port-Scanner-Demo</code><br>
 
-<code>python3 scanner.py < ip ></code
-
-
+<code>python3 scanner.py < ip ></code>
